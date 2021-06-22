@@ -8,8 +8,8 @@
 
 <div class="contact" align="center">
 
-<a href="https://twitter.com/matthewleng"> ![Twitter Logo](https://img.shields.io/badge/@matthewleng-informational?style=social&logo=twitter&logoWidth=40&url=https%3A%2F%2Fwww.twitter.com%2Fmatthewleng)</a> <a href="https://www.linkedin.com/in/matthew-leng"> ![LinkedIn Logo](https://img.shields.io/badge/matthewleng-informational?style=social&logo=linkedin&logoWidth=40&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatthew-leng) </a>
-
+<a href="https://twitter.com/matthewleng" target="_blank" rel="noreferrer"> ![Twitter Logo](https://img.shields.io/badge/@matthewleng-informational?style=social&logo=twitter&logoWidth=40&url=https%3A%2F%2Fwww.twitter.com%2Fmatthewleng)</a> <a href="https://www.linkedin.com/in/matthew-leng" target="_blank" rel="noreferrer"> ![LinkedIn Logo](https://img.shields.io/badge/matthewleng-informational?style=social&logo=linkedin&logoWidth=40&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatthew-leng) </a>
+<a href="https://mleng89.medium.com/" target="_blank" rel="noreferrer"> ![Medium Logo](https://img.shields.io/badge/matthewleng-informational?style=social&logo=medium&logoWidth=40&url=https%3A%2F%2mleng89.medium.com/)
 </div>
  ---
   
